@@ -12,7 +12,7 @@ jobs:
 
     runs-on: windows-latest
 
-    notimeout-minutes: no
+    notimeout-minutes: 0000
 
 
     steps:
